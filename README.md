@@ -9,7 +9,7 @@ A fully interactive **3D Apartment Simulation** built with **OpenGL 3.3** as par
 
 | Overview | Lighting | texture | Outdoor |
 |----------|----------|---------|
-| ![Apartment Overview](apartment/overview.png) | ![Lighting](apartment/lighting.png) | ![Outdoor](apartment/texture.png) | ![Outdoor](apartment/outdoor.png) |
+| ![Apartment Overview](overview.png) | ![Lighting](lighting.png) | ![Outdoor](texture.png) | ![Outdoor](outdoor.png) |
 
 
 ---
